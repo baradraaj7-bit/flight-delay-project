@@ -6,6 +6,7 @@ DataTeam
 Team Members:
 Baraa Darraj   1230667
 Yosra Mahmoud  1200867
+Tala Khateeb.   1222091
 
 Course:
 COMP4381 - Data Science
